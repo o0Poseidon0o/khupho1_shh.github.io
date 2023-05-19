@@ -236,11 +236,16 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 200px;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.6);
 }
 
 .carousel-item .teams-item {
   text-align: center;
 }
-.teams-item img {
-  width: 200px;
+.teams-title {
+  padding: 10px;
+}
+#teams {
+  height: 500px;
 }
